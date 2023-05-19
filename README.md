@@ -1,2 +1,2 @@
 # Tarascms
-Cms laravel project
+This is a laravel cms project
